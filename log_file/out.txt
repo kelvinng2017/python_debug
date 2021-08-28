@@ -1,0 +1,17 @@
+2021-08-29 07:20:06,341 - DEBUG : program start
+2021-08-29 07:20:06,342 - DEBUG : factorial 5 calculate start
+2021-08-29 07:20:06,342 - DEBUG : i = 1, ans = 1
+2021-08-29 07:20:06,342 - DEBUG : i = 2, ans = 2
+2021-08-29 07:20:06,342 - DEBUG : i = 3, ans = 6
+2021-08-29 07:20:06,342 - DEBUG : i = 4, ans = 24
+2021-08-29 07:20:06,342 - DEBUG : i = 5, ans = 120
+2021-08-29 07:20:06,342 - DEBUG : factorial 5 calculate finish
+2021-08-29 07:20:06,342 - DEBUG : factorial(5) = 120
+2021-08-29 07:20:06,342 - DEBUG : factorial 5 calculate start
+2021-08-29 07:20:06,343 - DEBUG : i = 1, ans = 1
+2021-08-29 07:20:06,343 - DEBUG : i = 2, ans = 2
+2021-08-29 07:20:06,343 - DEBUG : i = 3, ans = 6
+2021-08-29 07:20:06,343 - DEBUG : i = 4, ans = 24
+2021-08-29 07:20:06,344 - DEBUG : i = 5, ans = 120
+2021-08-29 07:20:06,344 - DEBUG : factorial 5 calculate finish
+2021-08-29 07:20:06,344 - DEBUG : program finish
