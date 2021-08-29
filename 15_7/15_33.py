@@ -1,6 +1,9 @@
 """
 ch15_33.py 
 """
+import sys  
+reload(sys)
+sys.setdefaultencoding('utf-8')
 import logging
 logging.disable(level=logging.DEBUG)
 logging.basicConfig(level=logging.DEBUG,
